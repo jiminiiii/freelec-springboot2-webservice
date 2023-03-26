@@ -52,3 +52,11 @@ dependencies {
 dependencies{
     compile('org.springframework.boot:spring-boot-starter-mustache')
 }
+
+dependencies{
+    compile('org.springframework.boot:spring-boot-starter-oauth2-client')
+}
+
+dependencies{
+    compile('org.springframework.session:spring-session-jdbc')
+}
