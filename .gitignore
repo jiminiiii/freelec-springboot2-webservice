@@ -4,4 +4,6 @@
 .gradle
 .idea
 
+
+# 개인정보로 삭제
 application-oauth.properties
